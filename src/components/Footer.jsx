@@ -49,7 +49,7 @@ export default function Footer() {
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         © 2020 Copyright:
-        <a className='text-white' href='#'>
+        <a className='text-white' href='https://github.com/marceloflp/PetsAdoptionWeb'>
         PetsAdoption
         </a>
       </div>
